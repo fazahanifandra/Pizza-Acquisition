@@ -4,13 +4,12 @@ End-to-end pricing and execution risk analysis of the U.S. pizza market using Py
 This project reflects how I would approach a real-world pricing due diligence as a consultant or business analyst.
 
 - Overview
-
 This project simulates a private equity commercial due diligence on the U.S. pizza restaurant market.
 
 The objective is to evaluate:
-  Pricing discipline and dispersion
-  Execution quality and risk
-  Scalable vs non-scalable value pockets
-  And ultimately design a post-deal pricing strategy
+  1. Pricing discipline and dispersion
+  2. Execution quality and risk
+  3. Scalable vs non-scalable value pockets
+  4. And ultimately design a post-deal pricing strategy
 
 The analysis combines Python (data processing & modeling) and Power BI (interactive dashboarding) to move from raw data to actionable recommendations.
